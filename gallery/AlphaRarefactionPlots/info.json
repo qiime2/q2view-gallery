@@ -1,6 +1,6 @@
 {
   "title": "Alpha Rarefaction Plots",
   "desc": "Explore alpha diversity as a function of sampling depth using the qiime diversity alpha-rarefaction visualizer.",
-  "href": "/?type=html&src=https%3A%2F%2Fdocs.qiime2.org%2F2024.2%2Fdata%2Ftutorials%2Fmoving-pictures%2Falpha-rarefaction.qzv",
+  "href": "https://docs.qiime2.org/2024.2/data/tutorials/moving-pictures/alpha-rarefaction.qzv",
   "img": "/gallery/AlphaRarefactionPlots/alpha_rarefaction_thumb.png"
 }
