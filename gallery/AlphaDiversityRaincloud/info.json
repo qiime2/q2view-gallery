@@ -1,6 +1,5 @@
 {
   "title": "Alpha Diversity Raincloud Plots",
   "desc": "Explore alpha diversity of your FMT recipients over time using qiime fmt engraftment!",
-  "href": "https://raw.githubusercontent.com/qiime2/q2-fmt/master/demo/raincloud-baseline0.qzv",
-  "img": "/gallery/AlphaDiversityRaincloud/alpha_raincloud_thumb.png"
+  "href": "https://raw.githubusercontent.com/qiime2/q2-fmt/master/demo/raincloud-baseline0.qzv"
 }
