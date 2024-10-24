@@ -25,7 +25,7 @@ The .png you wish to use as the thumbnail for your visualization in the gallery.
 
 ## /gallery/index.json
 
-Edit `/gallery/index.json` adding `&lt;entry-name&gt;` to the end of the list.
+Edit `/gallery/index.json` adding `<entry-name>` to the end of the list.
 
 ## Example PR
 
