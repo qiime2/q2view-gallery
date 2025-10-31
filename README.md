@@ -1,3 +1,7 @@
+This repository is no longer used.
+To add entries to the QIIME 2 View Gallery, you should now refer to:
+https://github.com/qiime2/library-catalog/
+
 # Instructions for adding a visualization to the QIIME 2 View Gallery
 
 Open a PR against this repo adding the following:
